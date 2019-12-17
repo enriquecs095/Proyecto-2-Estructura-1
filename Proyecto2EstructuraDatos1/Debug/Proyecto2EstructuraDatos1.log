@@ -1,0 +1,7 @@
+﻿  StudyPlan.cpp
+C:\Users\Enrique\source\repos\Proyecto2EstructuraDatos1\Proyecto2EstructuraDatos1\StudyPlan.cpp(187,16): warning C4101:  'studyPlan': variable local sin referencia
+C:\Users\Enrique\source\repos\Proyecto2EstructuraDatos1\Proyecto2EstructuraDatos1\StudyPlan.cpp(363,16): warning C4101:  'SP': variable local sin referencia
+C:\Users\Enrique\source\repos\Proyecto2EstructuraDatos1\Proyecto2EstructuraDatos1\StudyPlan.cpp(530,7): warning C4101:  'QSon': variable local sin referencia
+C:\Users\Enrique\source\repos\Proyecto2EstructuraDatos1\Proyecto2EstructuraDatos1\StudyPlan.cpp(678,21): warning C4244:  '=': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+C:\Users\Enrique\source\repos\Proyecto2EstructuraDatos1\Proyecto2EstructuraDatos1\StudyPlan.cpp(678,21): warning C4244: C:\Users\Enrique\source\repos\Proyecto2EstructuraDatos1\Proyecto2EstructuraDatos1\StudyPlan.cpp(379) : warning C4715: 'StudyPlan::ExtractClass': no todas las rutas de acceso de control devuelven un valor
+  Proyecto2EstructuraDatos1.vcxproj -> C:\Users\Enrique\source\repos\Proyecto2EstructuraDatos1\Debug\Proyecto2EstructuraDatos1.exe
